@@ -1,5 +1,6 @@
 # 12/29 時系列を１つにし、３０項目とする。３０バージョン 平均化
-setwd("C:\\Users\\sisco\\Documents\\GitHub\\letsgowaikiki\\data")             # 作業ディレクトリを変更する
+#setwd("C:\\Users\\sisco\\Documents\\GitHub\\letsgowaikiki\\data")             # 作業ディレクトリを変更する
+setwd("C:\\Test_ORJ\\data")             # 作業ディレクトリを変更する
 getwd()                     # 現在の作業ディレクトリを確認する# 複数のデータファイルを一括してリストに読み込む
 
 dt_all <- data.frame()
